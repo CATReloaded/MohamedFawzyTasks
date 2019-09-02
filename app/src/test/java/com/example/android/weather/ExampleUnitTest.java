@@ -1,4 +1,4 @@
-package com.andalus.abomedhat.mohamedfawzytasks;
+package com.example.android.weather;
 
 import org.junit.Test;
 
