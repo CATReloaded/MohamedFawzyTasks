@@ -2,7 +2,9 @@ package com.andalus.abomedhat.mohamedfawzytasks;
 
 import android.graphics.drawable.Drawable;
 
-public class DataSet {
+import java.io.Serializable;
+
+public class DataSet implements Serializable {
     private int thumbnail;
     private String title;
     private String size;
